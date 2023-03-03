@@ -80,9 +80,20 @@ go run main.go lolBin --args <arg>
     chown $USER:$USER /tmp/dir
     chmod +x /tmp/dir
     ```
+</br>
+
+<div>
+<div style="text-align:center">
+    <img src="Demo/a_lol_test.png" alt="Status">
+</div>
+</div>
+
+#
+
+</br>
 
 
-### Example
+## Example
 
 To run the tool on a target, just use the following command.
 - using above lolBin `dir`.
@@ -90,6 +101,14 @@ To run the tool on a target, just use the following command.
 ```console
 go run main.go dir --args -la
 ```
+
+<div>
+<div style="text-align:center">
+    <img src="Demo/it_ran.png" alt="Status">
+</div>
+</div>
+
+
 #
 
 ## Options
@@ -127,8 +146,8 @@ chmod +x builder.sh
 ## Pre-Compiled Binaries
 <div>
 <div style="text-align:center">
-    <a href="https://github.com/sc4rfurry/m4rdok/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/Download-v1.0.0-informational?style=flat-square&logo=github&logoColor=white&color=5194f0&bgcolor=110d17" alt="Download">
+    <a href="https://github.com/sc4rfurry/m4rdok/releases/tag/v0.1.0-stable">
+    <img src="https://img.shields.io/badge/Download-v0.1.0_stable-informational?style=flat-square&logo=github&logoColor=white&color=5194f0&bgcolor=110d17" alt="Download">
     </a>
 <div style="text-align:center">
     <img src="https://img.shields.io/badge/Status-Active-informational?style=flat-square&logo=github&logoColor=white&color=5194f0&bgcolor=110d17" alt="Status">
